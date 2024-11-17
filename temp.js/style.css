@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+
+}
+
+.main-container {
+    display: flex;
+    width: 600px;
+
+}
+
+
+.box {
+    height: 299px;
+    width: 300px;
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(3, 118, 118);
+    color: rgb(3, 118, 118);
+
+}
+
+h3 {
+    margin: 20px;
+    margin-top: 40px;
+}
+
+p {
+    margin: 20px;
+}
+
+#input {
+    margin-left: 20px;
+    height: 15px;
+}
+
+h4 {
+    margin: 60px;
+    margin-left: 140px;
+}
+
+#convert {
+    background: rgb(3, 118, 118);
+    color: white;
+    margin-top: 30px;
+    margin: 45px;
+    margin-left: 100px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 100px;
+}
+
+#select {
+    margin: -5px;
+    height: 18px;
+}
+
+#select-to {
+    margin-left: 20px;
+    width: 190px;
+    height: 20px;
+}
+
+.result {
+    height: 302px;
+    width: 300px;
+    background-color: rgb(3, 118, 118);
+    color: white;
+    display: flex;
+}
+
+h1 {
+    margin-top: 130px;
+    margin-left: 115px;
+}
+
+#convert-in {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#degree {
+    margin-bottom: 10px;
+}
